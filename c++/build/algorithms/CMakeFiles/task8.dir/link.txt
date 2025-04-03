@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task8.dir/task8.cpp.o -o /home/andrew/Документы/leetcode/c++/bin/task8 

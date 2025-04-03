@@ -1,0 +1,5 @@
+/home/andrew/Документы/leetcode/c++/build/CMakeFiles/edit_cache.dir
+/home/andrew/Документы/leetcode/c++/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/Документы/leetcode/c++/build/algorithms/CMakeFiles/task1.dir
+/home/andrew/Документы/leetcode/c++/build/algorithms/CMakeFiles/edit_cache.dir
+/home/andrew/Документы/leetcode/c++/build/algorithms/CMakeFiles/rebuild_cache.dir

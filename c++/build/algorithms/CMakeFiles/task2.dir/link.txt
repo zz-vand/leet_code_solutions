@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task2.dir/task2.cpp.o -o /home/andrew/Документы/leetcode/c++/bin/task2 

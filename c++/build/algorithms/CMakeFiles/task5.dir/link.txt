@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task5.dir/task5.cpp.o -o /home/andrew/Документы/leetcode/c++/bin/task5 
